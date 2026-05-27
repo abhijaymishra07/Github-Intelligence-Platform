@@ -489,16 +489,6 @@ That depends on how you configure the LLM and embedding backends. For air-gapped
 Yes. The full workflow is available via REST (<a href="docs/API.md">API reference</a> and Swagger at <code>/docs</code>). The frontend is optional convenience on top of the same API.
 </details>
 
-<details>
-<summary><strong>How do I add real screenshots to this README?</strong></summary>
-
-<ol>
-<li>Start the stack (<code>docker compose -f docker/docker-compose.yml up --build</code>).</li>
-<li>Capture PNGs from the routes in the <a href="#screenshots">Screenshots</a> section.</li>
-<li>Save under <code>docs/assets/</code> (e.g. <code>dashboard.png</code>) and replace the <code>.svg</code> paths in this file.</li>
-</ol>
-</details>
-
 ---
 
 ## Project Structure
