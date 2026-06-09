@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Visualizations screenshot mockup">
+  <rect width="960" height="540" fill="#0f172a"/>
+  <rect x="220" y="24" width="716" height="492" rx="12" fill="#1e293b"/>
+  <text x="248" y="60" fill="#f1f5f9" font-family="system-ui,sans-serif" font-size="18" font-weight="700">Dependency Graph</text>
+  <rect x="248" y="80" width="660" height="380" rx="10" fill="#0b1220" stroke="#334155"/>
+  <circle cx="580" cy="280" r="36" fill="#2563eb"/>
+  <text x="558" y="285" fill="#fff" font-family="system-ui,sans-serif" font-size="11">core</text>
+  <circle cx="380" cy="180" r="28" fill="#1e293b" stroke="#64748b"/>
+  <text x="360" y="185" fill="#cbd5e1" font-family="system-ui,sans-serif" font-size="10">api</text>
+  <circle cx="780" cy="200" r="28" fill="#1e293b" stroke="#64748b"/>
+  <text x="752" y="205" fill="#cbd5e1" font-family="system-ui,sans-serif" font-size="10">services</text>
+  <circle cx="420" cy="380" r="28" fill="#1e293b" stroke="#64748b"/>
+  <text x="392" y="385" fill="#cbd5e1" font-family="system-ui,sans-serif" font-size="10">models</text>
+  <line x1="408" y1="200" x2="548" y2="260" stroke="#64748b" stroke-width="2"/>
+  <line x1="752" y1="220" x2="612" y2="265" stroke="#64748b" stroke-width="2"/>
+  <line x1="448" y1="360" x2="552" y2="305" stroke="#64748b" stroke-width="2"/>
+</svg>

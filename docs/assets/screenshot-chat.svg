@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Repository chat screenshot mockup">
+  <rect width="960" height="540" fill="#0f172a"/>
+  <rect x="0" y="0" width="200" height="540" fill="#111827"/>
+  <rect x="220" y="24" width="716" height="492" rx="12" fill="#1e293b"/>
+  <text x="248" y="60" fill="#f1f5f9" font-family="system-ui,sans-serif" font-size="18" font-weight="700">Repository Chat</text>
+  <text x="248" y="82" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="12">owner/fastapi-service</text>
+  <rect x="248" y="100" width="660" height="320" rx="10" fill="#0f172a" stroke="#334155"/>
+  <rect x="268" y="120" width="420" height="56" rx="10" fill="#1e40af"/>
+  <text x="284" y="145" fill="#e0e7ff" font-family="system-ui,sans-serif" font-size="12">How does the authentication middleware work?</text>
+  <rect x="488" y="190" width="400" height="90" rx="10" fill="#1e293b" stroke="#475569"/>
+  <text x="504" y="215" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="12">JWT middleware validates Bearer tokens on protected routes.</text>
+  <text x="504" y="240" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="11">Sources: auth.py:12-45 � routes.py:8-22</text>
+  <rect x="268" y="300" width="380" height="48" rx="10" fill="#1e293b"/>
+  <text x="284" y="330" fill="#64748b" font-family="system-ui,sans-serif" font-size="12">Ask a question about this repository...</text>
+  <rect x="820" y="300" width="68" height="48" rx="10" fill="#2563eb"/>
+  <text x="842" y="330" fill="#fff" font-family="system-ui,sans-serif" font-size="12">Send</text>
+</svg>

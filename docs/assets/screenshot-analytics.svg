@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Analytics screenshot mockup">
+  <rect width="960" height="540" fill="#0f172a"/>
+  <rect x="220" y="24" width="716" height="492" rx="12" fill="#1e293b"/>
+  <text x="248" y="60" fill="#f1f5f9" font-family="system-ui,sans-serif" font-size="18" font-weight="700">Analytics</text>
+  <rect x="248" y="90" width="200" height="80" rx="10" fill="#0f172a" stroke="#334155"/>
+  <text x="268" y="118" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="11">Total Files</text>
+  <text x="268" y="150" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="24" font-weight="700">142</text>
+  <rect x="464" y="90" width="200" height="80" rx="10" fill="#0f172a" stroke="#334155"/>
+  <text x="484" y="118" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="11">Languages</text>
+  <text x="484" y="150" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="24" font-weight="700">5</text>
+  <rect x="680" y="90" width="200" height="80" rx="10" fill="#0f172a" stroke="#334155"/>
+  <text x="700" y="118" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="11">Security Findings</text>
+  <text x="700" y="150" fill="#f87171" font-family="system-ui,sans-serif" font-size="24" font-weight="700">3</text>
+  <rect x="248" y="190" width="300" height="200" rx="10" fill="#0f172a" stroke="#334155"/>
+  <text x="268" y="220" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="13" font-weight="600">Language Breakdown</text>
+  <rect x="268" y="240" width="200" height="12" rx="4" fill="#2563eb"/>
+  <text x="268" y="270" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="11">Python 60%</text>
+  <rect x="268" y="285" width="120" height="12" rx="4" fill="#8b5cf6"/>
+  <text x="268" y="315" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="11">TypeScript 28%</text>
+  <rect x="568" y="190" width="340" height="200" rx="10" fill="#0f172a" stroke="#334155"/>
+  <text x="588" y="220" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="13" font-weight="600">Detected Frameworks</text>
+  <text x="588" y="250" fill="#86efac" font-family="system-ui,sans-serif" font-size="12">FastAPI � React � Next.js</text>
+</svg>

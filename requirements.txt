@@ -1,0 +1,5 @@
+# Streamlit Cloud entry-point dependencies (streamlit_app.py).
+# Backend deps live in backend/requirements.txt
+
+streamlit>=1.32.0
+requests>=2.31.0

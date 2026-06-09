@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" role="img" aria-label="GitHub Intelligence Platform overview">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="640" fill="url(#bg)"/>
+  <rect x="40" y="40" width="1120" height="560" rx="16" fill="#111827" stroke="#334155" stroke-width="2"/>
+  <text x="80" y="100" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="28" font-weight="700">GitHub Intelligence Platform</text>
+  <text x="80" y="135" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="16">Ingest � Parse � Embed � Analyze � Ask</text>
+  <rect x="80" y="170" width="250" height="120" rx="12" fill="#1e293b" stroke="#475569"/>
+  <text x="105" y="210" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="14" font-weight="600">1. Clone Repo</text>
+  <text x="105" y="240" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">POST /repo/upload</text>
+  <rect x="360" y="170" width="250" height="120" rx="12" fill="#1e293b" stroke="#475569"/>
+  <text x="385" y="210" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="14" font-weight="600">2. Index &amp; Embed</text>
+  <text x="385" y="240" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">ChromaDB + AST parsing</text>
+  <rect x="640" y="170" width="250" height="120" rx="12" fill="#1e293b" stroke="#475569"/>
+  <text x="665" y="210" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="14" font-weight="600">3. Analyze</text>
+  <text x="665" y="240" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Complexity + security scan</text>
+  <rect x="920" y="170" width="200" height="120" rx="12" fill="url(#accent)" opacity="0.9"/>
+  <text x="945" y="210" fill="#ffffff" font-family="system-ui, sans-serif" font-size="14" font-weight="600">4. Ask AI</text>
+  <text x="945" y="240" fill="#e0e7ff" font-family="system-ui, sans-serif" font-size="12">RAG chat with sources</text>
+  <rect x="80" y="330" width="1040" height="230" rx="12" fill="#0b1220" stroke="#334155"/>
+  <text x="105" y="370" fill="#cbd5e1" font-family="ui-monospace, monospace" font-size="13">Q: How does authentication work?</text>
+  <text x="105" y="405" fill="#86efac" font-family="ui-monospace, monospace" font-size="13">A: JWT middleware validates Bearer tokens in src/middleware/auth.py:12-45</text>
+  <text x="105" y="445" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Sources: auth.py (0.92) � routes.py (0.81) � security.py (0.74)</text>
+  <rect x="105" y="470" width="180" height="28" rx="6" fill="#1d4ed8"/>
+  <text x="120" y="489" fill="#fff" font-family="system-ui, sans-serif" font-size="12">View dependency graph</text>
+  <rect x="300" y="470" width="160" height="28" rx="6" fill="#334155"/>
+  <text x="315" y="489" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="12">Complexity heatmap</text>
+</svg>
